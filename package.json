@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KurysNikita/AJS-4.1.git"
+    "url": "git+https://github.com/NikitaKurys/AJS-4.1.git"
   },
-  "author": "KurysNikita",
+  "author": "NikitaKurys",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KurysNikita/AJS-4.1/issues"
+    "url": "https://github.com/NikitaKurys/AJS-4.1/issues"
   },
-  "homepage": "https://github.com/KurysNikita/AJS-4.1#readme",
+  "homepage": "https://github.com/NikitaKurys/AJS-4.1#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.4",
     "@babel/core": "^7.15.5",
